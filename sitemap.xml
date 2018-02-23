@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fleury.net/post/cloudflare-stream/</loc>
+    <lastmod>2018-02-23T13:35:51-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fleury.net/post/first-post/</loc>
     <lastmod>2017-04-12T15:32:14-07:00</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>https://fleury.net/</loc>
-    <lastmod>2017-04-12T15:32:14-07:00</lastmod>
+    <lastmod>2018-02-23T13:35:51-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fleury.net/post/</loc>
-    <lastmod>2017-04-12T15:32:14-07:00</lastmod>
+    <lastmod>2018-02-23T13:35:51-08:00</lastmod>
     <priority>0</priority>
   </url>
   
